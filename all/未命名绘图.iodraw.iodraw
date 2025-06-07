@@ -41,16 +41,16 @@
           <mxGeometry x="390" y="670" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mFqli0fDAnru9l1DVNLs-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="550.5" width="150" height="150" as="geometry" />
+          <mxGeometry x="710" y="590.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mFqli0fDAnru9l1DVNLs-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="649.5" width="150" height="150" as="geometry" />
+          <mxGeometry x="710" y="689.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mFqli0fDAnru9l1DVNLs-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="550.5" width="150" height="150" as="geometry" />
+          <mxGeometry x="710" y="590.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mFqli0fDAnru9l1DVNLs-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="820" y="600.5" width="150" height="150" as="geometry" />
+          <mxGeometry x="820" y="640.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mFqli0fDAnru9l1DVNLs-22" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="375" y="210" width="60" height="30" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="375" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mFqli0fDAnru9l1DVNLs-30" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="755" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="755" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mFqli0fDAnru9l1DVNLs-31" value="F-{f}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="375" y="490" width="60" height="30" as="geometry" />
