@@ -37,10 +37,10 @@
         <mxCell id="69N2OU7HfVYj9l8H95hM-2" value="regfile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="69N2OU7HfVYj9l8H95hM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="69N2OU7HfVYj9l8H95hM-3" value="CU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="69N2OU7HfVYj9l8H95hM-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="69N2OU7HfVYj9l8H95hM-4" value="alu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69N2OU7HfVYj9l8H95hM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
